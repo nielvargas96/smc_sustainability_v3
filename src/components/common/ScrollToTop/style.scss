@@ -1,0 +1,15 @@
+.scroll-to-top {
+  position: fixed;
+  right: 0;
+  z-index: 1000;
+  bottom: 6vh;
+  right: 5vw;
+  background: #f8d296;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 44px;
+  width: 44px;
+  cursor: pointer;
+}

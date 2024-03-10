@@ -1,0 +1,25 @@
+.slider-swiper {
+  --swiper-theme-color: #5abf4b;
+  --swiper-navigation-size: 35px;
+  --swiper-pagination-bottom: 0px;
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #ffffff;
+    width: calc(var(--swiper-navigation-size) / 44 * 60);
+  }
+
+  .swiper-pagination {
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .slider-swiper {
+
+    .swiper-button-next,
+    .swiper-button-prev {
+      display: none;
+    }
+  }
+}
