@@ -144,7 +144,9 @@ export default function Rsa() {
           </motion.div>
         </motion.section>
 
-        <motion.div className='video-container' 
+        
+
+       {/* <motion.div className='video-container' 
        
         >
           {
@@ -190,7 +192,7 @@ export default function Rsa() {
             }
           </div>
         </motion.div>
-
+*/}
       </section >
 
 
