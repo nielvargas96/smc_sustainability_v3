@@ -1,4 +1,4 @@
-import withPlaiceholder from "@plaiceholder/next";
+ 
 
 const cspHeader = `
     default-src 'self';
@@ -27,7 +27,7 @@ const nextConfig = {
   basePath: "",
   // basePath: "/sustainability",
   // assetPrefix: "/sustainability",
-  output: "export",
+  // output: "export",
   images: {
     loader: 'custom',
     loaderFile: './src/utils/imageKitLoader.js',
@@ -77,4 +77,4 @@ const nextConfig = {
   },
 };
 
-export default withPlaiceholder(nextConfig);
+export default nextConfig;

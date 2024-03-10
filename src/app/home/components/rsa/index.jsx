@@ -144,8 +144,8 @@ export default function Rsa() {
           </motion.div>
         </motion.section>
 
-        <motion.div className='video-container' ref={refContainerVideo}
-          style={{ y: y4 }}
+        <motion.div className='video-container' 
+       
         >
           {
             !handlePlayVideo &&
@@ -157,6 +157,7 @@ export default function Rsa() {
               </div>
             </div>
           }
+
           <div className='video-wrapper'>
             {
               hasWindow &&
