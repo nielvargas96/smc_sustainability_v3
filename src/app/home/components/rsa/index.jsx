@@ -134,7 +134,7 @@ export default function Rsa() {
 
             transition={{ ease: "linear", duration: .25 }}
             className='action-button'
-            style={{ y: y2 }}
+            // style={{ y: y2 }}
           >
             <Magnetic>
               <Link className='btn-rounded' href="/presidents-message" title='Read More'>
