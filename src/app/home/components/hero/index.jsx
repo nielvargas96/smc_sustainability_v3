@@ -25,7 +25,7 @@ export default function Hero() {
   const textY = useTransform(scrollYProgress, [0, 1], [0, 100]);
   const bgImgY3 = useTransform(scrollYProgress, [0, 1], ["0", "-15%"]);
   const bgImgY2 = useTransform(scrollYProgress, [0, 1], ["0", "-25%"]);
-  const bgImgY1 = useTransform(scrollYProgress, [0, 1], [0, -700]);
+  // const bgImgY1 = useTransform(scrollYProgress, [0, 1], [0, -700]);
 
   return (
     <section className='section-1' ref={ref}>
@@ -172,7 +172,7 @@ export default function Hero() {
 
       <motion.figure
         className='front-img'
-        style={{ y: bgImgY1 }}
+        // style={{ y: bgImgY1 }}
 
       >
         <Image

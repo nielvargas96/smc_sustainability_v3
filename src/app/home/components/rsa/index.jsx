@@ -25,7 +25,7 @@ export default function Rsa() {
 
   const x = useTransform(scrollYProgress, [0, 1], [0, 100]);
   const y = useTransform(scrollYProgress, [0, 1], ["0", "-160vh"]);
-  const y2 = useTransform(scrollYProgress, [0, 1], ["0", "-150vh"]);
+  const y2 = useTransform(scrollYProgress, [0, 1], ["0", "-10vh"]);
   const y3 = useTransform(scrollYProgress, [0, 1], ["0", "-100vh"]);
   const y4 = useTransform(scrollYProgress, [0, 1], ["0", "-120vh"]);
 
@@ -82,7 +82,7 @@ export default function Rsa() {
             // initial="initial"
             // animate={isInView ? 'visible' : 'hidden'}
             className='card-wrapper'
-            style={{ y: y }}
+            // style={{ y: y }}
           >
             <div className='description'>
               <motion.h2 className='heading-1'>
@@ -134,7 +134,7 @@ export default function Rsa() {
 
             transition={{ ease: "linear", duration: .25 }}
             className='action-button'
-            // style={{ y: y2 }}
+            style={{ y: y2 }}
           >
             <Magnetic>
               <Link className='btn-rounded' href="/presidents-message" title='Read More'>
@@ -144,9 +144,9 @@ export default function Rsa() {
           </motion.div>
         </motion.section>
 
-        
 
-       {/* <motion.div className='video-container' 
+
+        <motion.div className='video-container' 
        
         >
           {
@@ -192,7 +192,7 @@ export default function Rsa() {
             }
           </div>
         </motion.div>
-*/}
+
       </section >
 
 

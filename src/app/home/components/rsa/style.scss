@@ -1,7 +1,7 @@
 .section-2 {
   position: relative;
   background-color: #F5F5F7;
-
+  height:100%;
 
   h2 {
     color: #2E2E2F;
@@ -116,7 +116,7 @@
 
 .video {
   width: 100% !important;
-  height: 100% !important;
+  height: 20% !important;
 }
 
 .play-button {
@@ -135,7 +135,7 @@
 
 @media screen and (min-width:1025px) {
   .section-2 {
-    margin-top: -25%;
+    margin-top: 0;
 
     .card-wrapper {
       margin: 0 auto;
@@ -188,13 +188,13 @@
 
 @media screen and (min-width:1200px) {
   .section-2 {
-    margin-top: -22%;
+    margin-top: 0;
   }
 }
 
 @media screen and (min-width:1300px) {
   .section-2 {
-    margin-top: -13.5%;
+    margin-top: 0;
 
     .card-wrapper {
       max-width: 1200px;
@@ -217,7 +217,7 @@
 @media screen and (min-width:1800px) {
   .section-2 {
 
-    // margin-top: -30%;
+    // margin-top: 0;
     .action-button {
       bottom: 15vh;
     }
@@ -226,7 +226,7 @@
 
 @media screen and (max-width: 1024px) {
   .section-2 {
-    margin-top: -35%;
+    margin-top: 0;
 
     h2 {
       margin-bottom: 1rem;
@@ -252,13 +252,13 @@
 
 @media screen and (max-width:768px) {
   .section-2 {
-    margin-top: -60%;
+    margin-top: 0;
   }
 }
 
 @media screen and (max-width:600px) {
   .section-2 {
-    margin-top: -100%;
+    margin-top: 0;
   }
 }
 
