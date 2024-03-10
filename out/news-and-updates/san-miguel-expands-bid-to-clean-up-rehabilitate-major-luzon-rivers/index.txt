@@ -1,0 +1,64 @@
+1:HL["/_next/static/css/d72ba17566b2b856.css","style",{"crossOrigin":""}]
+0:["ZejMmCHBIiysWFec523S1",[[["",{"children":["news-and-updates",{"children":[["slug","san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers","d"],{"children":["__PAGE__?{\"slug\":\"san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d72ba17566b2b856.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:I[9126,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],"ModalProvider"]
+5:I[4674,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],"SubsidiaryModalProvider"]
+6:I[881,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],""]
+7:I[3492,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],"SmoothScrollProvider"]
+8:"$Sreact.suspense"
+9:I[6954,[],""]
+a:I[617,["8855","static/chunks/8855-f2929ddb5c6b9735.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8555","static/chunks/app/loading-318daeb3b5b97105.js"],""]
+b:I[6716,["8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","7601","static/chunks/app/error-0e4fe907c3baff78.js"],""]
+c:I[7264,[],""]
+d:I[8326,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","8898","static/chunks/app/news-and-updates/page-d2b7b39925a4b434.js"],""]
+10:I[8568,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],""]
+11:I[1145,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],""]
+12:I[451,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],""]
+13:I[8126,["413","static/chunks/413-b0f7ed87e68a51e3.js","8855","static/chunks/8855-f2929ddb5c6b9735.js","8326","static/chunks/8326-b67f248a2904cc9a.js","4669","static/chunks/4669-95d1bcac22a4de18.js","2093","static/chunks/2093-501e46e7869019cc.js","8530","static/chunks/8530-c157c346bb5e15e0.js","8163","static/chunks/8163-5a34e9fa8503e228.js","3185","static/chunks/app/layout-1f2a4eac14e6370b.js"],""]
+2:[null,["$","html",null,{"lang":"en","children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#f5f5f5"}],["$","meta",null,{"property":"og:title","content":"SMC Sustainability"}],["$","meta",null,{"property":"og:type","content":"article"}],["$","meta",null,{"property":"og:description","content":"San Miguel Corporation - Sustainability Website"}],["$","body",null,{"children":["$","div",null,{"className":"app","children":["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{"children":["$","main",null,{"className":"main","children":["$","$8",null,{"children":[["$","$L9",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":["$","$La",null,{}],"loadingStyles":[],"loadingScripts":[],"hasLoading":true,"error":"$b","errorStyles":[],"errorScripts":[],"template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","section",null,{"className":"not-found","children":["$","div",null,{"children":[["$","h1",null,{"children":"Page Not Found!"}]," ",["$","br",null,{}],["$","p",null,{"children":"Could not find requested resource"}]," ",["$","br",null,{}],["$","$Ld",null,{"className":"btn subsidiary","href":"/","children":"Return Home"}]]}]}],"notFoundStyles":[],"childProp":{"current":["$","$L9",null,{"parallelRouterKey":"children","segmentPath":["children","news-and-updates","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L9",null,{"parallelRouterKey":"children","segmentPath":["children","news-and-updates","children",["slug","san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$Le","$Lf",null],"segment":"__PAGE__?{\"slug\":\"san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers\"}"},"styles":null}],"segment":["slug","san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers","d"]},"styles":null}],"segment":"news-and-updates"},"styles":null}],["$","$L10",null,{}],["$","$La",null,{}]]}]}]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}]]}]}]}]}]]}],null]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+e:null
+14:Te80,By: Manila Standard<br/>
+October 22, 2023, 8:50 pm<br/>
+Access the original article 
+<a href="https://manilastandard.net/spotlight/environmental-and-sustainability/314382512/san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers.html " target="_blank">here</a>
+
+
+
+<br/><br/>
+San Miguel Corp. (SMC) is setting its sights on a more ambitious goal: cleaning up and rehabilitating three major river systems as well as other tributaries and waterways throughout Metro Manila, Pampanga, Cavite and Bulacan.
+<br/><br/>
+Dubbed as “SMC’s Adopt-A-River program,” the initiative is possibly the country’s biggest and most impactful corporate social responsibility (CSR) effort in collaboration with the national and local governments.
+<br/><br/>
+SMC is initiating the project three years after it launched its landmark river cleanup and flood mitigation initiative—which has led to the removal of over 3 million metric tons of silt and solid wastes from the Pasig, Tullahan, and San Juan Rivers.
+<br/><br/>
+The initiative has gained broad-based support from various stakeholders, including national, provincial and city governments, whose localities stand to benefit from the massive undertaking.
+<br/><br/>
+Department of Environment and Natural Resources (DENR) Secretary Ma. Antonia Yulo-Loyzaga and Department of Public Works and Highways (DPWH) Secretary Manual Bonoan led national government support for the program at the formal signing of the memoranda of agreement.
+<br/><br/>
+Also present at the signing and joining the effort were Cavite Gov. Juanito Victor Remulla, Pampanga Gov. Dennis Pineda, and Navotas City Mayor John Ray Tiangco.
+<br/><br/>
+“This initiative is unlike anything we have seen before. It is perhaps the most extensive environmental effort involving both government and the private sector. In one decisive move, we are cleaning up many major rivers and waterways. We are doing this as a public service, at no cost to the government or taxpayers,” SMC president and chief executive Ramon S. Ang said.
+<br/><br/>
+He added that:
+<br/><br/>
+“ It is important to understand that cleaning up rivers is not a quick fix. It is a very important step in the river restoration process. It paves the way for polluted waterways to heal,” he added.
+<br/><br/>
+SMC began its river advocacy three years ago spending over P3 billion and removing over three million metric tons of oil and waste from Pasig River, Tullahan River and San Juan River.
+<br/><br/>
+The massive initiative covers the following rivers:
+<br/><br/>
+• River systems in Bulacan including the Meycauayan, Maycapiz-Taliptip, and Mailad Rivers, the Bambang Creek, Marilao River, Sta. Maria River, Guiguinto River, Pamarawan River, Labangon-Angat River, Malolos River and Hagonoy River.
+<br/><br/>
+• Pampanga River
+<br/><br/>
+• Maragondon River and other related tributaries in Cavite
+<br/><br/>
+• Waterways in Navotas City, including Muzon River, Batasan River and the Navotas River
+<br/><br/>
+• San Pedro River in Laguna
+<br/><br/>
+• San Juan River
+<br/><br/>
+Loyzaga lauded the company for its continuous efforts to clean up major river systems and the expansion of the program, aligned with government’s environmental objectives.
+<br/><br/>
+“This partnership enables DENR to achieve three main mandates by investing and allowing water to flow and impound it correctly where it is needed. Most of all, we are able to fulfill a new role assigned to us by our President when he created the Water Resources Management Office… We are very grateful to San Miguel Corporation for its kind and generous support to our government activities,” Loyzaga said.f:["$","section",null,{"className":"news-update-container","children":["$","div",null,{"className":"block-content","children":["$","div",null,{"className":"description-text","children":[null,null,["$","div","2-san-miguel-expands-bid-to-clean-up-rehabilitate-major-luzon-rivers",{"children":[["$","div",null,{"className":"news-title","children":["$","h1",null,{"children":[" ","San Miguel expands bid to clean up, rehabilitate major Luzon rivers"]}]}],["$","div",null,{"children":[["$","p",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}],null,null]}]]}],null]}]}]}]
